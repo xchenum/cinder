@@ -1,4 +1,4 @@
 [gerrit]
 host=openstack-n1
 port=29418
-project=openstack/cinder.git
+project=openstack/cinder
